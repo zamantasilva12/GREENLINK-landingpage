@@ -1,0 +1,12 @@
+body {
+  scroll-behavior: smooth;
+}
+
+button.position-fixed {
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  font-size: 20px;
+  line-height: 0;
+  padding: 0;
+}
